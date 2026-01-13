@@ -1,0 +1,9 @@
+SYSTEM & NETWORK HEALTH REPORT
+========================================
+
+OS: Windows 11
+CPU Usage: 4.7% (OK)
+Memory Usage: 85.6% (WARNING)
+Disk Usage: 85.3% (CRITICAL)
+Ping Test: OK
+DNS Test: OK
